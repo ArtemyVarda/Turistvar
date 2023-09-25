@@ -1,0 +1,24 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "194.190.152.134",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "database": "turist_var",
+      "username": "postgresql_var",
+      "password": "mkVp9146",
+      "name": "posgres"
+    },
+    {
+      "previewLimit": 50,
+      "server": "194.190.152.134",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "database": "turist_var",
+      "username": "postgresql_var",
+      "password": "mkVp9146",
+      "name": "pgsql"
+    }
+  ]
+}
